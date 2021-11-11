@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ScrollApp</string>
+    <string name="textview">
+\tCompetitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers. Competitive programming is recognized and supported by several multinational software and Internet companies, such as Google[1][2] and Facebook.[3] There are several organizations who host programming competitions on a regular basis.\n\n
+
+\tA programming competition generally involves the host presenting a set of logical or mathematical problems, also known as puzzles, to the contestants (who can vary in number from tens to several thousands), and contestants are required to write computer programs capable of solving each problem. Judging is based mostly upon number of problems solved and time spent for writing successful solutions, but may also include other factors (quality of output produced, execution time, program size, etc.)\n\n
+
+        \nOne of the oldest contests known is ICPC which originated in the 1970s, and has grown to include 88 countries in its 2011 edition.\n\n
+
+\tFrom 1990 to 1994, Owen Astrachan, Vivek Khera and David Kotz ran one of the first distributed, internet-based programming contests inspired by ICPC.[4]\n\n
+
+\tInterest in competitive programming has grown extensively[quantify] since 2000, and is strongly connected to the growth of the Internet, which facilitates holding international contests online, eliminating geographical problems.\n\n
+
+        \tThe aim of competitive programming is to write source code of computer programs which are able to solve given problems. A vast majority of problems appearing in programming contests are mathematical or logical in nature. Typical such tasks belong to one of the following categories: combinatorics, number theory, graph theory, algorithmic game theory, computational geometry, string analysis and data structures. Problems related to constraint programming and artificial intelligence are also popular in certain competitions.\n\n
+
+\tIrrespective of the problem category, the process of solving a problem can be divided into two broad steps: constructing an efficient algorithm, and implementing the algorithm in a suitable programming language (the set of programming languages allowed varies from contest to contest). These are the two most commonly tested skills in programming competitions.\n\n
+
+\tIn most contests, the judging is done automatically by host machines, commonly known as judges. Every solution submitted by a contestant is run on the judge against a set of (usually secret) test cases. Normally, contest problems have an all-or-none marking system, meaning that a solution is "Accepted" only if it produces satisfactory results on all test cases run by the judge, and rejected otherwise. However, some contest problems may allow for partial scoring, depending on the number of test cases passed, the quality of the results, or some other specified criteria. Some other contests only require that the contestant submit the output corresponding to given input data, in which case the judge only has to analyze the submitted output data.\n\n
+
+\tOnline judges are online environments in which testing takes place. Online judges have ranklists showing users with the biggest number of accepted solutions and/or shortest execution time for a particular problem.[5]\n\n
+
+        \tThere are two types of competition formats: short-term and long-term. Each round of short-term competition lasts from 1 to 5 hours. Long-term competitions can last from a few days to a few months.\n\n
+
+        <b>\t\tShort-term\n</b>
+International Collegiate Programming Contest (ICPC) – one of the oldest competitions, for students of universities in groups of 3 persons each\n\n
+International Olympiad in Informatics (IOI) – one of the oldest competitions, for secondary school students\n\n
+American Computer Science League (ACSL) – computer science competition with written and programming portions, for middle/high school students\n\n
+CodeChef – competition held from 2009, there are three contests held every month[6] and an annual competition called CodeChef SnackDown[7]\n\n
+Codeforces Round – typically two hour contest, held every week[8]\n\n
+Facebook Hacker Cup – competition held from 2011, provided and sponsored by Facebook\n\n
+HackerRank – multiple competitions[9]\n\n
+Gridwars – four competitions held between 2003 and 2004.\n\n
+Google Code Jam – competition held from 2003, provided and sponsored by Google\n\n
+IEEEXtreme Programming Competition[10] – annual competition for IEEE Student Members held since 2006 by IEEE.\n\n
+Topcoder Open (TCO) – Algorithm competition held since 2001 by Topcoder\n\n
+
+\tIn most of the above competitions, since the number of contestants is quite large, competitions are usually organized in several rounds. They usually require online participation in all rounds except the last, which requires onsite participation. A special exception to this is IEEEXtreme, which is a yearly 24-hour virtual programming competition. The top performers at IOI and ICPC receive gold, silver and bronze medals while in the other contests, cash prizes are awarded to the top finishers. Also hitting the top places in the score tables of such competitions may attract interest of recruiters from software and Internet companies.\n
+    </string>
+</resources>
